@@ -8,6 +8,7 @@
 # 💫 About Me :
 - 🌱 I’m currently learning more about Flutter.
 - 👨‍💻 Flutter Lead @ Google Developer Student Club
+- 🏆 Smart India Hackathon 2022 WINNER
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
