@@ -10,6 +10,7 @@ I'm Rajat Suner</h1>
 - 👨‍💻 Flutter Lead @ Google Developer Student Club
 - 🏆 Smart India Hackathon 2022 WINNER
 - 🧑‍💻 Smart India Hackathon 2023 Finalist
+- 🧩 ex- Flutter Intern @ Advista Marketing Ltd
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
